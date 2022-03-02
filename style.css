@@ -1,0 +1,98 @@
+/*Variables*/
+body {
+  background-color: Black;
+}
+
+body header nav div {
+  padding-top: 0.5%;
+  text-align: center;
+  text-decoration: none;
+  background-color: Black;
+}
+
+body header nav div div div a {
+  text-decoration: none;
+  color: antiquewhite;
+  font-size: 20px;
+}
+
+body header nav div div div a:hover {
+  color: #fae173;
+  font-size: 21px;
+}
+
+body header nav div h1 a {
+  text-decoration: none;
+  color: antiquewhite;
+  font-size: 28px;
+  list-style: none;
+}
+
+body header nav div h1 a img {
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  width: 8%;
+  height: 8%;
+}
+
+body header nav div h1 a:hover {
+  color: #fae173;
+}
+
+body main {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+body main h1 {
+  -webkit-text-decoration: underline 2px;
+          text-decoration: underline 2px;
+  color: antiquewhite;
+  text-align: center;
+}
+
+body main p {
+  color: antiquewhite;
+}
+
+body main h2 {
+  color: antiquewhite;
+}
+
+body main div div div div div h2 {
+  text-align: center;
+  color: antiquewhite;
+}
+
+body main div div div div div span {
+  text-align: center;
+  color: antiquewhite;
+}
+
+div {
+  background-color: Black;
+}
+
+div div {
+  background-color: Black;
+}
+
+div div div div h5 {
+  color: antiquewhite;
+}
+
+div div div div p {
+  color: antiquewhite;
+}
+
+div div div div a {
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+footer {
+  background-color: antiquewhite;
+}
+/*# sourceMappingURL=style.css.map */
